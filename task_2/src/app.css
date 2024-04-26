@@ -1,0 +1,11 @@
+html {
+  font-size: 20px;
+  --light-color: #525252;
+  --dark-color: #1b1b1b;
+  --text-color: #cfcfcf;
+}
+
+body {
+  margin: 0;
+  font-family: 'Trebuchet MS', Helvetica, sans-serif;
+}
